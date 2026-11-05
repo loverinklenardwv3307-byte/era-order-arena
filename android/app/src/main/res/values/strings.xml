@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Era Order Arena</string>
+
+    <string name="splash_title">ERA ORDER ARENA</string>
+    <string name="splash_subtitle">PUT HISTORY IN ORDER</string>
+    <string name="splash_loading">OPENING THE GALLERY</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="begin">START ARENA</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="resume">RESUME</string>
+    <string name="end_round">END ROUND</string>
+    <string name="pause_title">GALLERY PAUSED</string>
+
+    <string name="menu_tagline">72 SOURCED EVENTS · 6 ARENAS</string>
+    <string name="menu_first_hint">PICK AN ARENA AND SLIDE EACH EVENT INTO ITS PLACE</string>
+    <string name="menu_timeline">TIMELINE</string>
+    <string name="menu_stats">STATS</string>
+    <string name="menu_daily">DAILY</string>
+
+    <string name="arena_title">CHOOSE AN ARENA</string>
+    <string name="arena_daily">DAILY ERA</string>
+    <string name="arena_daily_subtitle">ONE MIXED SET EACH DAY</string>
+    <string name="chip_daily">TODAY</string>
+    <string name="chip_events">%1$d EVENTS</string>
+    <string name="chip_learned">%1$d LEARNED</string>
+
+    <string name="game_round">ROUND %1$d · %2$s</string>
+    <string name="game_placed">CORRECT %1$d</string>
+    <string name="game_streak">STREAK %1$d</string>
+    <string name="game_where">SLIDE ME INTO THE TIMELINE</string>
+    <string name="game_dealing">DEALING THE NEXT CARD</string>
+    <string name="game_round_complete">ROUND COMPLETE</string>
+    <string name="game_links_hint">TAP A CAUSE, THEN ITS CONSEQUENCE</string>
+    <string name="game_causes">CAUSES</string>
+    <string name="game_effects">CONSEQUENCES</string>
+
+    <string name="note_correct">Placed correctly</string>
+    <string name="note_wrong">Placed out of order</string>
+
+    <string name="result_complete">ROUND COMPLETE</string>
+    <string name="result_out_of_lives">OUT OF LIVES</string>
+    <string name="result_new_record">NEW BEST STREAK</string>
+
+    <string name="stat_placed">CORRECT</string>
+    <string name="stat_streak">BEST STREAK</string>
+    <string name="stat_lives">LIVES LEFT</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_events_learned">EVENTS LEARNED</string>
+    <string name="stat_accuracy">ACCURACY</string>
+    <string name="stat_rounds">ROUNDS</string>
+    <string name="stat_percent">%1$d%%</string>
+
+    <string name="stats_title">LEARNER STATS</string>
+    <string name="stats_regions">ACCURACY BY REGION</string>
+    <string name="stats_empty">NOTHING LEARNED YET. ORDER A FEW EVENTS AND THIS WALL FILLS UP.</string>
+
+    <string name="timeline_title">YOUR TIMELINE</string>
+    <string name="timeline_count">%1$d EVENTS LEARNED</string>
+    <string name="timeline_empty">YOUR TIMELINE IS STILL BARE. EVERY EVENT YOU PLACE CORRECTLY IS HUNG HERE.</string>
+
+    <string name="prefs_title">ARENA PREFERENCES</string>
+    <string name="prefs_date_format">DATE FORMAT</string>
+    <string name="prefs_text_size">CARD TEXT SIZE</string>
+    <string name="prefs_haptics">HAPTIC TICKS</string>
+    <string name="prefs_sound">TAP SOUNDS</string>
+    <string name="prefs_preview">PREVIEW</string>
+    <string name="prefs_on">ON</string>
+    <string name="prefs_off">OFF</string>
+    <string name="option_bce_ce">BCE / CE</string>
+    <string name="option_bc_ad">BC / AD</string>
+    <string name="option_text_standard">STANDARD</string>
+    <string name="option_text_large">LARGE</string>
+
+    <string name="date_bce">%1$d BCE</string>
+    <string name="date_bc">%1$d BC</string>
+    <string name="date_ce">%1$d CE</string>
+    <string name="date_ad">AD %1$d</string>
+    <string name="century_bce">%1$d BCE</string>
+    <string name="century_bc">%1$d BC</string>
+    <string name="century_ce">%1$d CE</string>
+    <string name="century_ad">AD %1$d</string>
+
+    <string name="region_europe">EUROPE</string>
+    <string name="region_asia">ASIA</string>
+    <string name="region_africa">AFRICA</string>
+    <string name="region_americas">AMERICAS</string>
+    <string name="region_oceania">OCEANIA</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_gallery_home">Gallery entrance</string>
+    <string name="cd_preferences">Arena preferences</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_lives">%1$d lives left</string>
+    <string name="cd_drag_card">Event card, drag it onto the timeline</string>
+    <string name="cd_insert_here">Place the card in this slot</string>
+    <string name="cd_arena_sprite">Arena emblem</string>
+</resources>
